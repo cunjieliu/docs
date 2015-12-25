@@ -17,3 +17,8 @@ bower help
   "directory" : "public/components"
 }
 ```
+
+可使用以下命令来建立bower.json文件
+```javascript
+bower init
+```
